@@ -1,0 +1,7 @@
+2020-10-05 14:23:15.3389|DEBUG|NLogDemo.NLog|Debug Unsuccessful: Add()
+2020-10-05 14:23:15.5807|ERROR|NLogDemo.NLog|Values entered by the user was not greater than zero.
+2020-10-05 14:23:15.6700|WARN|NLogDemo.NLog|First number or Second number should not be zero.
+2020-10-05 14:23:15.8019|DEBUG|NLogDemo.NLog|Debug Succesful: Add()
+2020-10-05 14:23:15.8532|INFO|NLogDemo.NLog|Add() passed: 0
+2020-10-05 14:25:34.4870|DEBUG|NLogDemo.NLog|Debug Succesful: Add()
+2020-10-05 14:25:34.6355|INFO|NLogDemo.NLog|Add() passed: 10
